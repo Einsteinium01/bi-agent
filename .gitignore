@@ -1,0 +1,11 @@
+# Secrets — never commit
+.streamlit/secrets.toml
+.env
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+.DS_Store
+.ipynb_checkpoints/

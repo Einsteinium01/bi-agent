@@ -1,0 +1,73 @@
+Skylark Drones - Assignment
+Technical Assignment: Monday.com Business Intelligence Agent
+Problem Statement
+Founders and executives need quick, accurate answers to business questions across multiple data sources. Currently, this requires:
+Manually pulling data from monday.com boards
+Cleaning inconsistent data formats
+Querying information across multiple boards (work orders, deals, pipeline)
+Creating ad-hoc analysis for each query
+Dealing with missing data and incomplete records
+The Challenge
+Business data is messy. A founder asks "How's our pipeline looking for energy sector this quarter?" and someone needs to interpret that query, find relevant data across multiple boards, clean it, and provide meaningful insights
+Your Task
+Build an AI agent that can answer founder-level business intelligence queries by integrating with monday.com boards containing work orders and deals data.
+Sample Data
+You will receive two CSV files to import into monday.com:
+Work Orders - Project execution data
+Deals - Sales pipeline data
+P.S - Import these into monday.com as separate boards. Set up appropriate column types and structure as you see fit.
+Note: The data is real-world messy data - Your agent must handle this gracefully.
+Core Features
+Your agent must handle these areas:
+1. Monday.com Integration
+Connect to monday.com via MCP or API
+Handle authentication and connection management
+2. Data Resilience
+Handle missing/null values gracefully
+Normalize inconsistent date formats, naming conventions, text fields
+Provide meaningful results even with incomplete data
+Communicate data quality issues or caveats to the user
+3. Query Understanding
+Interpret founder-level business questions
+Ask clarifying questions when needed
+4. Business Intelligence
+Answer queries about revenue, pipeline health, sectoral performance, operational metrics
+Query across both boards when needed
+Provide context and insights, not just raw numbers
+Additional Requirement (optional)
+"The agent should help prepare data for leadership updates"
+How you interpret and implement this is up to you. Document your interpretation in your Decision Log.
+Integration Requirements
+Monday.com — Read only
+Read: All data from both boards (Work Orders and Deals)
+Use MCP or API — your choice
+Important: Do not hardcode CSV data. Your agent must query monday.com dynamically.
+Deliverables
+1. Hosted Prototype (Required)
+Working agent accessible via link
+Platform of your choice
+Must be testable without local setup
+2. Decision Log (Required, 2 page max)
+Key assumptions you made
+Trade-offs chosen and why
+What you'd do differently with more time
+How you interpreted "leadership updates"
+3. Source Code
+ZIP file
+README with architecture overview and setup instructions for monday.com configuration
+Technical Expectations
+Conversational Interface: The user will interact with your agent conversationally, handle that to the best of your (agents') ability
+Monday.com Integration: Via MCP or API as specified above
+Error Handling: Graceful handling of data quality issues and API failures
+Tech Stack: Your choice — justify your decisions in the Decision Log
+Timeline
+6 hours
+Questions?
+If you have clarifying questions, document your assumptions and proceed. Part of the evaluation is seeing how you handle ambiguity and make decisions with incomplete information.
+
+Good luck!
+File Downloads
+Deal Funnel - https://docs.google.com/spreadsheets/d/1jghv-FiZ_bmWtEtB7IyaKYlwT5omEwSl/edit?usp=sharing&ouid=104949792092294774485&rtpof=true&sd=true
+Work Order Tracker - https://docs.google.com/spreadsheets/d/1mL0GsxyhIYrUSHfkhbQ--SFfxrG1AE2j/edit?usp=sharing&ouid=104949792092294774485&rtpof=true&sd=true 
+Submission Link
+https://forms.gle/AXCuScE78MrkAcYm6

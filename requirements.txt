@@ -1,0 +1,4 @@
+streamlit>=1.40
+anthropic>=0.69
+pandas>=2.2
+requests>=2.32

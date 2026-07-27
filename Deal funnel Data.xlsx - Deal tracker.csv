@@ -1,0 +1,347 @@
+Deal Name,Owner code,Client Code,Deal Status,Close Date (A),Closure Probability,Masked Deal value,Tentative Close Date,Deal Stage,Product deal,Sector/service,Created Date
+Naruto,OWNER_001,COMPANY089,Open,,High,489360,2026-02-26,B. Sales Qualified Leads,Service + Spectra,Mining,2025-12-26
+Sasuke,OWNER_001,COMPANY091,Open,,,17616960,2026-02-28,B. Sales Qualified Leads,,Mining,2025-09-15
+Sasuke,OWNER_002,COMPANY124,Open,,Medium,611700,2026-02-26,E. Proposal/Commercials Sent,,Powerline,2025-11-12
+Sakura,OWNER_002,COMPANY046,Open,,Low,2348928,2026-03-20,E. Proposal/Commercials Sent,,Powerline,2025-10-14
+Sakura,OWNER_002,COMPANY148,Open,,High,428190,2026-02-26,E. Proposal/Commercials Sent,,Powerline,2025-10-10
+Sakura,OWNER_002,COMPANY047,Open,,Medium,2936160,2026-02-12,E. Proposal/Commercials Sent,,Powerline,2025-07-07
+Sakura,OWNER_003,COMPANY197,Open,,Low,305850000,2024-09-30,D. Feasibility,Pure Service,Tender,2024-08-30
+Sakura,OWNER_001,COMPANY177,On Hold,,Medium,,2025-06-11,M. Projects On Hold,,Powerline,2024-11-17
+Sakura,OWNER_001,COMPANY094,Open,,Medium,,2025-06-12,M. Projects On Hold,,Renewables,2024-11-17
+Sakura,OWNER_001,COMPANY178,On Hold,,Medium,,2025-06-23,M. Projects On Hold,,Renewables,2024-08-09
+Sakura,OWNER_004,COMPANY149,Open,,High,4281900,2026-01-31,H. Work Order Received,Spectra + DMO,DSP,2025-11-19
+Sakura,OWNER_004,COMPANY149,Open,,Low,6117000,2026-03-25,F. Negotiations,Hardware,DSP,2025-11-19
+Sakura,OWNER_002,COMPANY171,Open,,Low,1835100,2026-02-20,E. Proposal/Commercials Sent,,Renewables,2025-05-21
+Sakura,OWNER_003,COMPANY111,Open,,Medium,7832265.523,2026-01-31,E. Proposal/Commercials Sent,Pure Service,Railways,2025-09-15
+Sakura,OWNER_003,COMPANY111,Open,,Medium,7832265.523,2026-02-28,E. Proposal/Commercials Sent,Pure Service,Railways,2026-01-08
+Sakura,OWNER_003,COMPANY111,Open,,Medium,7832265.523,2026-03-31,E. Proposal/Commercials Sent,Pure Service,Railways,2026-01-08
+Sakura,OWNER_004,COMPANY149,Open,,High,12234000,2026-02-14,E. Proposal/Commercials Sent,Dock + DMO + Spectra + Service,DSP,
+Sakura,OWNER_004,COMPANY129,Open,,High,1835100,2026-01-08,F. Negotiations,Service + Spectra,Mining,2025-11-14
+Sakura,OWNER_004,COMPANY129,Open,,Medium,1101060,2026-01-15,E. Proposal/Commercials Sent,Dock + Spectra + Service,Mining,2025-11-14
+Sakura,OWNER_004,COMPANY107,Open,,Medium,3670200,2026-01-15,E. Proposal/Commercials Sent,Dock + DMO + Spectra + Service,DSP,2025-11-14
+Sakura,OWNER_004,COMPANY103,Open,,Low,5505300,2026-02-13,E. Proposal/Commercials Sent,Dock + DMO + Spectra + Service,DSP,2025-11-14
+Sakura,OWNER_004,COMPANY077,Open,,Low,367020,2025-12-15,C. Demo Done,Pure Service,DSP,2025-11-14
+Sakura,OWNER_004,COMPANY026,Open,,High,122340,2026-03-10,E. Proposal/Commercials Sent,Dock + DMO + Spectra,Construction,2025-11-14
+Sakura,OWNER_004,COMPANY193,Open,,High,122340,2026-01-31,F. Negotiations,Service + Spectra,Mining,2025-11-14
+Sakura,OWNER_003,COMPANY111,Open,,Medium,5235907.32,2026-01-15,B. Sales Qualified Leads,Pure Service,Railways,2025-11-17
+Sakura,OWNER_001,COMPANY169,Open,,High,14680800,2026-01-31,D. Feasibility,Service + Spectra,Renewables,2025-11-17
+Sakura,OWNER_001,COMPANY183,Open,,High,89308.2,2025-11-19,F. Negotiations,Pure Service,Mining,2025-11-17
+Sakura,OWNER_003,COMPANY009,Open,,Low,2446800,2026-02-15,E. Proposal/Commercials Sent,Pure Service,Renewables,2025-11-18
+Sakura,OWNER_003,COMPANY052,Open,,Medium,1223400,2026-02-28,B. Sales Qualified Leads,Pure Service,Railways,2025-11-18
+Sakura,OWNER_003,COMPANY108,Open,,Medium,1223400,2026-02-28,B. Sales Qualified Leads,Pure Service,Railways,2025-11-18
+Kakashi,OWNER_003,COMPANY021,Open,,Low,1223400,2026-02-28,B. Sales Qualified Leads,Pure Service,Railways,2025-11-18
+Goku,OWNER_003,COMPANY067,Open,,Medium,2018605.106,2026-01-31,E. Proposal/Commercials Sent,Pure Service,Railways,2025-11-18
+Goku,OWNER_003,COMPANY043,Open,,Low,1223400,2026-02-28,B. Sales Qualified Leads,Pure Service,Mining,2025-11-18
+Luffy,OWNER_003,COMPANY093,Open,,High,122340000,2026-02-28,F. Negotiations,Service + Spectra,Tender,2025-11-18
+Zoro,OWNER_003,COMPANY067,Open,,Medium,3058500,2026-01-15,B. Sales Qualified Leads,Pure Service,Railways,2025-11-18
+Nami,OWNER_004,COMPANY110,Open,,Low,91755000,2026-01-15,E. Proposal/Commercials Sent,Service + Spectra,Tender,2025-11-19
+Sanji,OWNER_003,COMPANY048,Open,,Medium,7340400,2026-02-15,F. Negotiations,Dock + DMO,Security and Surveillance,2025-11-19
+Sanji,OWNER_002,COMPANY124,Open,,Medium,12019562.45,2026-01-30,E. Proposal/Commercials Sent,,Tender,2025-11-20
+Rukia,OWNER_001,COMPANY087,Open,,High,3058500,2026-04-01,C. Demo Done,Service + Spectra,Renewables,2025-11-26
+Rukia,OWNER_001,COMPANY095,Open,,High,1835100,2026-02-10,C. Demo Done,Service + Spectra,Renewables,2025-11-26
+Light Yagami,OWNER_003,COMPANY007,Open,,Medium,6117000,2026-03-31,E. Proposal/Commercials Sent,Spectra Deal,Mining,2025-12-01
+Light Yagami,OWNER_003,COMPANY067,Open,,Medium,7340400,2026-02-28,F. Negotiations,Pure Service,Railways,2025-12-08
+Eren Yeager,OWNER_003,COMPANY068,Open,,Medium,5872320,2026-01-31,F. Negotiations,Pure Service,Railways,2025-12-08
+Mikasa,OWNER_001,COMPANY050,Open,,Low,611696.3298,2025-12-15,F. Negotiations,Pure Service,Renewables,2025-12-08
+Levi,OWNER_003,COMPANY051,Open,,High,841699.2,2026-01-15,F. Negotiations,Pure Service,Railways,2025-12-08
+Tanjiro,OWNER_003,COMPANY161,Open,,High,489360,2026-01-31,F. Negotiations,Pure Service,Railways,2026-01-08
+Tanjiro,OWNER_003,COMPANY186,Open,,High,489360,2026-01-31,E. Proposal/Commercials Sent,Pure Service,Mining,2026-01-08
+Tanjiro,OWNER_001,COMPANY038,,,,,,A. Lead Generated,,,2026-01-08
+Tanjiro,OWNER_001,COMPANY039,Open,,High,2079780,2026-01-13,A. Lead Generated,,,2026-01-08
+Tanjiro,OWNER_001,COMPANY136,Open,,High,1468080,2026-01-31,A. Lead Generated,,,2026-01-08
+Nezuko,,,Deal Status,Close Date (A),Closure Probability,,Tentative Close Date,Deal Stage,Product deal,Sector/service,Created Date
+Zenitsu,OWNER_003,COMPANY190,Dead,,,,2024-10-31,N. Not relevant at the moment,Pure Service,Others,2024-09-12
+Inosuke,OWNER_003,COMPANY186,Dead,,,,2024-10-31,N. Not relevant at the moment,Pure Service,Others,2024-09-12
+Gojo,OWNER_005,COMPANY101,Dead,,,13457400,2025-06-30,E. Proposal/Commercials Sent,,Railways,2025-06-01
+Yuji Itadori,,COMPANY172,Dead,,,,2025-06-19,L. Project Lost,,Mining,2024-08-09
+Yuji Itadori,,COMPANY172,Dead,,,,2025-06-19,L. Project Lost,,Mining,2024-08-16
+Yuji Itadori,OWNER_006,COMPANY118,Dead,,,,2025-05-31,L. Project Lost,,Construction,2025-04-25
+Yuji Itadori,OWNER_002,COMPANY148,Dead,,,34866900,2025-05-31,O. Not Relevant at all,,Powerline,2025-04-25
+Megumi,OWNER_002,COMPANY070,Dead,,,97872,2025-05-31,N. Not relevant at the moment,,Powerline,2025-04-25
+Nobara,OWNER_006,COMPANY146,Dead,,,,2025-06-23,L. Project Lost,,Renewables,2025-04-30
+Saitama,OWNER_006,COMPANY014,Dead,,,,2025-05-31,C. Demo Done,,Powerline,2025-04-30
+Genos,OWNER_002,COMPANY168,Dead,,,53217.9,2025-06-30,N. Not relevant at the moment,,Powerline,2025-05-05
+Finn the Human,,COMPANY186,Dead,,,,2024-11-25,J. Invoice sent,,Mining,2024-08-16
+Edward Elric,OWNER_002,COMPANY179,Dead,,,,2025-06-23,L. Project Lost,,Powerline,2025-05-05
+Alphonse,OWNER_007,COMPANY078,Dead,,,,2024-09-30,C. Demo Done,,Railways,2024-08-16
+Alphonse,OWNER_003,COMPANY058,Dead,,,244680,2025-01-14,L. Project Lost,Pure Service,Renewables,2024-08-19
+Alphonse,OWNER_003,COMPANY143,Dead,,,611700,2025-01-14,L. Project Lost,Pure Service,Renewables,2024-08-19
+Alphonse,OWNER_003,COMPANY071,Dead,,,489360,2025-01-14,L. Project Lost,Pure Service,Renewables,2024-08-19
+Alphonse,OWNER_003,COMPANY063,Dead,,,256914000,2025-05-13,M. Projects On Hold,Pure Service,Mining,2024-08-19
+Alphonse,OWNER_003,COMPANY045,Dead,,,6117000,2025-05-13,M. Projects On Hold,Pure Service,Others,2024-08-21
+Alphonse,OWNER_003,COMPANY120,Dead,,,,2025-05-13,M. Projects On Hold,Pure Service,Mining,2024-08-19
+Alphonse,OWNER_003,COMPANY074,Dead,,,,2025-05-13,M. Projects On Hold,Pure Service,Others,2024-08-22
+Alphonse,OWNER_006,COMPANY005,Dead,,,,2024-09-30,C. Demo Done,,Construction,2024-08-22
+Alphonse,OWNER_003,COMPANY115,Dead,,,,2024-09-30,N. Not relevant at the moment,Pure Service,Renewables,2024-08-27
+Alphonse,OWNER_003,COMPANY080,Dead,,,,2024-09-30,N. Not relevant at the moment,Pure Service,Others,2024-08-30
+Alphonse,OWNER_003,COMPANY057,Dead,,,807444,2024-11-13,O. Not Relevant at all,Pure Service,Renewables,2024-09-12
+Alphonse,OWNER_003,COMPANY148,Dead,,,,2024-10-31,N. Not relevant at the moment,Pure Service,Renewables,2024-09-16
+Alphonse,OWNER_006,COMPANY078,Dead,,,,2024-11-18,L. Project Lost,,Railways,2024-09-20
+Alphonse,OWNER_006,COMPANY112,Dead,,,,2024-10-31,N. Not relevant at the moment,,Others,2024-09-20
+Alphonse,OWNER_003,COMPANY071,Dead,,,489360,2025-01-14,L. Project Lost,Pure Service,Renewables,2024-09-20
+Alphonse,OWNER_003,COMPANY133,Dead,,,,2025-05-13,M. Projects On Hold,Pure Service,Renewables,2024-09-20
+Alphonse,OWNER_003,COMPANY194,Dead,,,,2024-10-31,N. Not relevant at the moment,Pure Service,Construction,2024-09-20
+Alphonse,OWNER_006,COMPANY142,Dead,,,,2024-11-08,L. Project Lost,,Others,2024-10-07
+Spike Spiegel,OWNER_006,COMPANY169,Dead,,,,2025-06-23,L. Project Lost,,Powerline,2024-10-07
+Faye Valentine,,COMPANY186,Dead,,,,2024-11-30,C. Demo Done,,Mining,2024-10-08
+Kenshin,,COMPANY186,Dead,,,,2024-11-16,J. Invoice sent,,Mining,2024-11-01
+Rei,,COMPANY172,Dead,,,,2024-12-31,E. Proposal/Commercials Sent,,Others,2024-11-02
+Jake the Dog,,COMPANY017,Dead,,,,2024-12-31,E. Proposal/Commercials Sent,,Renewables,2024-11-05
+Piccolo,OWNER_001,COMPANY085,Dead,,,,2025-06-23,M. Projects On Hold,,Mining,2024-11-17
+Totoro,OWNER_003,COMPANY121,Dead,,,17739300,2025-05-13,L. Project Lost,Pure Service,Mining,2024-11-17
+Chihiro,OWNER_003,COMPANY116,Dead,,,1223400,2025-01-14,L. Project Lost,Pure Service,Mining,2024-11-17
+Howl,OWNER_003,COMPANY025,Dead,,,244680,2025-01-14,L. Project Lost,Pure Service,Others,2024-11-17
+Kiki,OWNER_003,COMPANY133,Dead,,,244680,2025-05-13,M. Projects On Hold,Pure Service,Renewables,2024-11-17
+Monkey D. Dragon,OWNER_001,COMPANY120,Dead,,,,2025-01-17,L. Project Lost,,Renewables,2024-11-17
+Shanks,OWNER_003,COMPANY175,Dead,,,305850,2025-01-14,L. Project Lost,Pure Service,Mining,2024-11-17
+Shanks,OWNER_003,COMPANY058,Dead,,,305850,2025-01-14,L. Project Lost,Pure Service,Renewables,2024-11-17
+Pain,OWNER_006,COMPANY020,Dead,,,,2024-12-27,L. Project Lost,,Others,2024-11-17
+Ace,OWNER_006,COMPANY122,Dead,,,,2024-12-13,L. Project Lost,,Renewables,2024-11-18
+Gaara,OWNER_006,COMPANY122,Dead,,,,2025-06-22,L. Project Lost,,Renewables,2024-11-18
+Itachi,OWNER_003,COMPANY157,Dead,,,21409500,2025-01-14,L. Project Lost,Pure Service,Mining,2024-11-19
+Itachi,,COMPANY016,Dead,,,,2024-12-31,B. Sales Qualified Leads,,Renewables,2024-11-21
+Itachi,,COMPANY172,Dead,,,,2025-01-31,B. Sales Qualified Leads,,Mining,2024-12-04
+Itachi,,COMPANY018,Dead,,,,2024-12-20,J. Invoice sent,,Others,2024-12-12
+Kaguya,OWNER_006,COMPANY150,Dead,,,,2025-01-31,L. Project Lost,,Renewables,2024-12-27
+Kaguya,OWNER_006,COMPANY128,Dead,,,,2025-01-23,J. Invoice sent,,Mining,2025-01-03
+Bulma,OWNER_003,COMPANY072,Dead,,,4037220,2025-07-04,L. Project Lost,Pure Service,Mining,2025-01-14
+Trunks,OWNER_003,COMPANY038,Dead,,,489360,2025-02-28,N. Not relevant at the moment,Pure Service,Renewables,2025-01-16
+Trunks,OWNER_003,COMPANY038,Dead,,,367020,2025-02-28,N. Not relevant at the moment,Pure Service,Renewables,2025-01-16
+Killua,OWNER_003,COMPANY038,Dead,,,367020,2025-02-28,N. Not relevant at the moment,Pure Service,Renewables,2025-01-16
+Gon,OWNER_003,COMPANY038,Dead,,,397605,2025-02-28,N. Not relevant at the moment,Pure Service,Renewables,2025-01-16
+Kurapika,OWNER_001,COMPANY182,Dead,,,,2025-02-28,J. Invoice sent,,Mining,2025-01-17
+Hisoka,OWNER_003,COMPANY185,Dead,,,,2025-02-28,N. Not relevant at the moment,Pure Service,Others,2025-01-21
+Sailor Moon,OWNER_003,COMPANY196,Dead,,,,2025-03-27,L. Project Lost,Pure Service,Mining,2025-01-29
+Sailor Moon,OWNER_006,COMPANY162,Dead,,,,2025-02-24,L. Project Lost,,Others,2025-02-19
+Sailor Moon,OWNER_006,COMPANY160,Dead,,,,,N. Not relevant at the moment,,Mining,2025-03-11
+Sailor Moon,OWNER_006,COMPANY146,Dead,,,,2025-06-22,M. Projects On Hold,,Renewables,2025-03-27
+Inuyasha,OWNER_002,COMPANY125,Dead,,,2849787.96,2025-05-26,L. Project Lost,Service + Spectra,Powerline,2025-05-13
+Sesshomaru,OWNER_002,COMPANY125,Dead,,,3988803.945,2025-05-26,L. Project Lost,Service + Spectra,Powerline,2025-05-13
+Sesshomaru,OWNER_002,COMPANY125,Dead,,,3383159.775,2025-05-26,L. Project Lost,Service + Spectra,Powerline,2025-05-13
+Sesshomaru,OWNER_003,COMPANY154,Dead,,,3058500,2025-07-04,I. POC,Pure Service,Mining,2025-05-13
+Kirito,OWNER_003,COMPANY186,Dead,,,,2025-09-15,M. Projects On Hold,Pure Service,Mining,2025-05-14
+Asuna,OWNER_003,COMPANY005,Dead,,,,2025-07-04,L. Project Lost,Pure Service,Construction,2025-05-14
+Rem,OWNER_003,COMPANY199,Dead,,,,2025-09-15,M. Projects On Hold,Pure Service,Renewables,2025-05-14
+Emilia,OWNER_003,COMPANY071,Dead,,,550530,2025-07-04,M. Projects On Hold,Pure Service,Renewables,2025-05-14
+Subaru,OWNER_003,COMPANY027,Dead,,,,2025-06-30,O. Not Relevant at all,Pure Service,Railways,2025-05-14
+Subaru,OWNER_003,COMPANY186,Dead,,,,2025-06-30,O. Not Relevant at all,Pure Service,Mining,2025-05-14
+Subaru,OWNER_003,COMPANY101,Dead,,,3670200,2025-07-04,I. POC,Pure Service,Railways,2025-05-14
+Subaru,OWNER_003,COMPANY066,Dead,,,,2025-06-30,O. Not Relevant at all,Pure Service,Railways,2025-05-14
+Subaru,OWNER_003,COMPANY198,Dead,,,,2025-07-04,L. Project Lost,Pure Service,Others,2025-05-14
+Subaru,OWNER_003,COMPANY176,Dead,,,,2025-06-30,N. Not relevant at the moment,Pure Service,Renewables,2025-05-14
+Subaru,OWNER_003,COMPANY145,Dead,,,54441300,2025-07-28,L. Project Lost,Pure Service,Renewables,2025-05-14
+Subaru,OWNER_003,COMPANY058,Dead,,,305850,2025-07-04,M. Projects On Hold,Pure Service,Renewables,2025-05-14
+Subaru,OWNER_003,COMPANY155,Dead,,,,2025-06-30,N. Not relevant at the moment,Pure Service,Others,2025-05-14
+Kaneki,OWNER_003,COMPANY133,Dead,,,550530,2025-07-28,M. Projects On Hold,Pure Service,Renewables,2025-05-14
+Inosuke,OWNER_003,COMPANY018,Dead,,,550530,2025-07-04,M. Projects On Hold,Pure Service,Renewables,2025-05-15
+Touka,OWNER_003,COMPANY114,Dead,,,,2025-06-30,O. Not Relevant at all,Pure Service,Renewables,2025-05-15
+Jotaro,OWNER_001,COMPANY073,Dead,,,,2024-11-17,L. Project Lost,,Mining,2024-08-09
+Dio,OWNER_006,COMPANY167,Dead,,,,2025-06-23,L. Project Lost,,Others,2024-08-12
+Josuke,OWNER_006,COMPANY122,Dead,,,,2024-11-18,L. Project Lost,,Renewables,2024-08-16
+Josuke,OWNER_003,COMPANY075,Dead,,,,2024-09-30,N. Not relevant at the moment,Pure Service,Others,2024-08-09
+Giorno,OWNER_002,COMPANY098,Dead,,,751473450,2025-05-29,L. Project Lost,,Powerline,2025-05-20
+Armin,OWNER_006,COMPANY065,Dead,,,,2025-06-30,B. Sales Qualified Leads,,Renewables,2025-05-27
+Erwin,OWNER_003,COMPANY200,Dead,,,,2025-07-04,L. Project Lost,Pure Service,Renewables,2025-05-27
+Shoto Todoroki,OWNER_002,COMPANY148,Dead,,,,2025-07-31,O. Not Relevant at all,,Powerline,2025-06-10
+Deku,OWNER_003,COMPANY191,Dead,,,,2025-07-31,O. Not Relevant at all,Pure Service,Renewables,2025-06-11
+Erwin,OWNER_003,COMPANY152,Dead,,,1223400,2025-07-31,O. Not Relevant at all,Pure Service,Renewables,2025-06-11
+Erwin,OWNER_003,COMPANY034,Dead,,,,2025-07-31,O. Not Relevant at all,Pure Service,Others,2025-06-19
+Erwin,OWNER_006,COMPANY181,Dead,,,,2025-07-31,I. POC,,Renewables,2025-06-24
+Erwin,OWNER_006,COMPANY023,Dead,,,,2025-07-31,E. Proposal/Commercials Sent,,Renewables,2025-06-24
+Erwin,OWNER_006,COMPANY128,Dead,,,,2025-08-31,C. Demo Done,,Mining,2025-07-01
+Rimuru,OWNER_003,COMPANY133,Dead,,,244680,2025-08-31,O. Not Relevant at all,Pure Service,Renewables,2025-07-28
+Mugen,OWNER_003,COMPANY133,Dead,,,305850,2025-08-31,O. Not Relevant at all,Pure Service,Renewables,2025-07-28
+Shinra,OWNER_003,COMPANY030,Dead,,,367020,2025-08-31,O. Not Relevant at all,Pure Service,Renewables,2025-07-28
+Rengoku,OWNER_003,COMPANY082,Dead,,,367020,2025-08-31,O. Not Relevant at all,Pure Service,Renewables,2025-07-28
+Rengoku,OWNER_003,COMPANY007,Dead,,,550530,2025-08-31,M. Projects On Hold,Pure Service,Renewables,2025-07-28
+Madara,OWNER_003,COMPANY006,Dead,,,2569140,2025-08-31,E. Proposal/Commercials Sent,Pure Service,Renewables,2025-07-28
+Obito,OWNER_003,COMPANY053,Dead,,,,2025-09-15,M. Projects On Hold,Pure Service,Renewables,2025-07-28
+Obito,OWNER_003,COMPANY174,Dead,,,,2025-08-31,M. Projects On Hold,Pure Service,Renewables,2025-07-28
+Akaza,OWNER_003,COMPANY158,Dead,,,,2025-08-31,O. Not Relevant at all,Pure Service,Mining,2025-07-28
+Cell,OWNER_003,COMPANY007,Dead,,,97872000,2025-08-31,L. Project Lost,Pure Service,Mining,2025-07-28
+Frieza,OWNER_003,COMPANY008,Dead,,,,2025-08-31,O. Not Relevant at all,Pure Service,Renewables,2025-07-28
+Frieza,OWNER_003,COMPANY081,Dead,,,176169600,2025-08-31,O. Not Relevant at all,Pure Service,Aviation,2025-07-28
+Beerus,OWNER_002,COMPANY079,Dead,,,,2025-08-31,N. Not relevant at the moment,,Renewables,2025-07-29
+Whis,OWNER_002,COMPANY124,Dead,,,,2025-09-30,O. Not Relevant at all,,Powerline,2025-08-11
+Gohan,,COMPANY195,Dead,,,,2025-09-30,D. Feasibility,,Mining,2025-08-25
+Gohan,,COMPANY119,Dead,,,,2025-10-31,E. Proposal/Commercials Sent,,Others,2025-09-05
+Gohan,OWNER_003,COMPANY049,Dead,,,19085040,2025-10-31,E. Proposal/Commercials Sent,Pure Service,Railways,2025-09-15
+Gohan,OWNER_003,COMPANY156,Dead,,,3670200,2025-10-31,B. Sales Qualified Leads,Pure Service,Railways,2025-09-15
+Gohan,OWNER_001,COMPANY088,Dead,,,,2025-10-31,B. Sales Qualified Leads,,Manufacturing,2025-09-15
+Krillin,OWNER_001,COMPANY147,Open,,,1101060,2025-10-31,D. Feasibility,,Renewables,2025-09-15
+Mickey Mouse,OWNER_002,COMPANY166,Dead,,,944709.48,2025-10-31,E. Proposal/Commercials Sent,,Powerline,2025-09-22
+Donald Duck,OWNER_003,COMPANY035,Dead,,Low,1223400,2025-11-24,L. Project Lost,Pure Service,Railways,2025-11-18
+Goofy,OWNER_003,COMPANY189,Dead,,Low,4973119.777,2025-12-31,B. Sales Qualified Leads,Pure Service,Railways,2025-11-18
+Daffy Duck,OWNER_002,COMPANY124,Dead,,Medium,6114436.977,2025-12-08,L. Project Lost,,Tender,2025-10-14
+Erwin,OWNER_002,COMPANY117,Dead,,Low,1923184.8,2025-11-28,E. Proposal/Commercials Sent,,Powerline,2025-03-31
+Alias_162,OWNER_003,COMPANY111,Dead,,Medium,9200237.148,2025-10-31,L. Project Lost,Pure Service,Railways,2025-09-15
+Bugs Bunny,OWNER_003,COMPANY007,Dead,,Low,4893600,2026-01-20,L. Project Lost,Pure Service,Mining,2025-11-18
+Bugs Bunny,OWNER_004,COMPANY010,Dead,,Low,1835100,2025-12-15,C. Demo Done,Spectra Deal,Mining,2025-11-20
+Bugs Bunny,OWNER_001,COMPANY105,Dead,,,2691480,2025-11-21,G. Project Won,Pure Service,Renewables,2025-11-17
+Bugs Bunny,,,Deal Status,Close Date (A),Closure Probability,,Tentative Close Date,Deal Stage,Product deal,Sector/service,Created Date
+Bugs Bunny,OWNER_003,COMPANY126,Won,,,,,A. Lead Generated,,Powerline,2025-11-27
+Bugs Bunny,OWNER_003,COMPANY036,Won,,,,,A. Lead Generated,,Renewables,2025-11-27
+Bugs Bunny,OWNER_001,COMPANY137,Won,,,,,A. Lead Generated,,Mining,2025-11-27
+Bugs Bunny,OWNER_001,COMPANY137,Won,,,,,A. Lead Generated,,Mining,2025-11-27
+Scooby-Doo,OWNER_001,COMPANY137,Won,,,,,A. Lead Generated,,Mining,2025-11-27
+Scooby-Doo,OWNER_001,COMPANY137,Won,,,,,A. Lead Generated,,Mining,2025-11-27
+Scooby-Doo,OWNER_001,COMPANY024,Won,,,,,A. Lead Generated,,Mining,2025-11-27
+Scooby-Doo,OWNER_001,COMPANY024,Won,,,,,A. Lead Generated,,Mining,2025-11-27
+Scooby-Doo,OWNER_001,COMPANY024,Won,,,,,A. Lead Generated,,Mining,2025-11-27
+Shaggy,OWNER_001,COMPANY024,Won,,,,,A. Lead Generated,,Mining,2025-11-27
+Tom,OWNER_001,COMPANY159,Won,,,,,A. Lead Generated,,Mining,2025-11-27
+Jerry,OWNER_003,COMPANY001,Won,,,,,A. Lead Generated,,Renewables,2025-11-27
+,OWNER_003,COMPANY165,Won,,,,,A. Lead Generated,,Railways,2025-11-27
+Bart Simpson,OWNER_001,COMPANY188,Won,,,,,A. Lead Generated,,Mining,2025-11-27
+Bart Simpson,OWNER_001,COMPANY186,Won,,,,,A. Lead Generated,,Mining,2025-11-27
+Lisa Simpson,OWNER_001,COMPANY085,Won,,,,,A. Lead Generated,,Mining,2025-11-27
+Bakugo,OWNER_001,COMPANY192,Won,,,,,A. Lead Generated,,Mining,2025-11-27
+,OWNER_001,COMPANY140,Won,,,,,A. Lead Generated,,Mining,2025-11-27
+Marge Simpson,OWNER_001,COMPANY106,Won,,,,,A. Lead Generated,,Construction,2025-11-27
+Marge Simpson,OWNER_004,COMPANY054,Won,,,,,A. Lead Generated,,Renewables,2025-11-27
+Marge Simpson,OWNER_001,COMPANY076,Won,,,,,A. Lead Generated,,Mining,2025-11-27
+Peter Griffin,OWNER_001,COMPANY102,Won,,,,,A. Lead Generated,,Mining,2025-11-27
+Stewie Griffin,OWNER_001,COMPANY076,Won,,,,,A. Lead Generated,,Mining,2025-11-27
+Stewie Griffin,OWNER_001,COMPANY076,Won,,,,,A. Lead Generated,,Mining,2025-11-27
+Stewie Griffin,OWNER_001,COMPANY076,Won,,,,,A. Lead Generated,,Mining,2025-11-27
+Stewie Griffin,OWNER_001,COMPANY076,Won,,,,,A. Lead Generated,,Mining,2025-11-27
+Stewie Griffin,OWNER_001,COMPANY076,Won,,,,,A. Lead Generated,,Mining,2025-11-27
+Stewie Griffin,OWNER_001,COMPANY102,Won,,,,,A. Lead Generated,,Mining,2025-11-27
+Stewie Griffin,OWNER_003,COMPANY187,Won,,,,,A. Lead Generated,,Mining,2025-11-27
+Stewie Griffin,OWNER_001,COMPANY169,Won,,High,,,A. Lead Generated,,Renewables,2025-11-27
+Stewie Griffin,OWNER_001,COMPANY169,Won,,High,,,A. Lead Generated,,Renewables,2025-11-27
+All Might,OWNER_001,COMPANY076,Won,,,,,A. Lead Generated,,Mining,2025-11-27
+SpongeBob,OWNER_003,COMPANY153,Won,,,,,A. Lead Generated,,Renewables,2025-11-27
+Patrick Star,OWNER_003,COMPANY013,Won,,,,,A. Lead Generated,,Renewables,2025-11-27
+Squidward,OWNER_001,COMPANY141,Won,,,,,A. Lead Generated,,Mining,2025-11-27
+Squidward,OWNER_003,COMPANY099,Won,,,,,A. Lead Generated,,Mining,2025-11-27
+Squidward,OWNER_001,COMPANY137,Won,,,,,A. Lead Generated,,Mining,2025-11-27
+Mr. Krabs,OWNER_003,COMPANY100,Won,,,,,A. Lead Generated,,Mining,2025-11-27
+Mr. Krabs,OWNER_003,COMPANY135,Won,,,,,A. Lead Generated,,Renewables,2025-11-27
+Mr. Krabs,OWNER_001,COMPANY076,Won,,,,,A. Lead Generated,,Mining,2025-11-27
+SpongeBob,OWNER_001,COMPANY092,Won,,,,,A. Lead Generated,,Mining,2025-11-27
+Ben Tennyson,OWNER_003,COMPANY012,Won,,,,,A. Lead Generated,,Railways,2025-11-27
+Ben Tennyson,OWNER_003,COMPANY015,Won,,,,,A. Lead Generated,,Mining,2025-11-27
+Ben Tennyson,OWNER_001,COMPANY076,Won,,,,,A. Lead Generated,,Mining,2025-11-27
+Ben Tennyson,OWNER_001,COMPANY083,Won,,,,,A. Lead Generated,,Mining,2025-11-27
+Ben Tennyson,OWNER_003,COMPANY134,Won,,,,,A. Lead Generated,,Renewables,2025-11-27
+Ben Tennyson,OWNER_004,COMPANY055,Won,,,,,A. Lead Generated,,Others,2025-11-27
+Ben Tennyson,OWNER_004,COMPANY054,Won,,,,,A. Lead Generated,,Renewables,2025-11-27
+Ben Tennyson,OWNER_003,COMPANY164,Won,,,,,A. Lead Generated,,Renewables,2025-11-27
+Ben Tennyson,OWNER_003,COMPANY003,Won,,,,,A. Lead Generated,,Mining,2025-11-27
+Ben Tennyson,OWNER_001,COMPANY169,Won,,High,,,A. Lead Generated,,Renewables,2025-11-27
+Ben Tennyson,OWNER_001,COMPANY106,Won,,,,,A. Lead Generated,,Renewables,2025-11-27
+Ben Tennyson,OWNER_003,COMPANY060,Won,,,,,A. Lead Generated,,Railways,2025-11-27
+Ben Tennyson,OWNER_001,COMPANY028,Won,,,,,A. Lead Generated,,Mining,2025-11-27
+Ben Tennyson,OWNER_003,COMPANY044,Won,,,,,A. Lead Generated,,Renewables,2025-11-27
+Ben Tennyson,OWNER_003,COMPANY113,Won,,,,,A. Lead Generated,,Mining,2025-11-27
+Ben Tennyson,OWNER_003,COMPANY113,Won,,,,,A. Lead Generated,,Mining,2025-11-27
+Aizawa,OWNER_003,COMPANY113,Won,,,,,A. Lead Generated,,Mining,2025-11-27
+Powerpuff Girls,OWNER_003,COMPANY113,Won,,,,,A. Lead Generated,,Mining,2025-11-27
+Mojo Jojo,OWNER_003,COMPANY069,Won,,,,,A. Lead Generated,,Renewables,2025-11-27
+Mojo Jojo,OWNER_001,COMPANY127,Won,,,,,A. Lead Generated,,Others,2025-11-27
+Mojo Jojo,OWNER_003,COMPANY060,Won,,,,,A. Lead Generated,,Railways,2025-11-27
+Mojo Jojo,OWNER_003,COMPANY113,Won,,,,,A. Lead Generated,,Mining,2025-11-27
+Mojo Jojo,OWNER_003,COMPANY144,Won,,,,,A. Lead Generated,,Railways,2025-11-27
+Mojo Jojo,OWNER_003,COMPANY032,Won,,,,,A. Lead Generated,,Renewables,2025-11-27
+Mojo Jojo,OWNER_003,COMPANY151,Won,,,,,A. Lead Generated,,Railways,2025-11-27
+Mojo Jojo,OWNER_003,COMPANY151,Won,,,,,A. Lead Generated,,Railways,2025-11-27
+Mojo Jojo,,COMPANY109,Won,,,,,A. Lead Generated,,Mining,2025-11-27
+Mojo Jojo,OWNER_001,COMPANY169,Won,,High,,,A. Lead Generated,,Renewables,2025-11-27
+Aang,OWNER_001,COMPANY169,Won,,High,,,A. Lead Generated,,Renewables,2025-11-27
+Katara,OWNER_001,COMPANY038,Won,,,,,H. Work Order Received,,Renewables,2025-08-13
+Ochaco,OWNER_002,COMPANY148,Won,2025-07-31,High,152925,2025-07-31,H. Work Order Received,,Powerline,2025-06-10
+Sokka,,COMPANY172,Won,,,,2024-09-30,Project Completed,,Mining,2024-08-09
+Zuko,OWNER_003,COMPANY172,Won,,,,2025-07-28,Project Completed,Pure Service,Others,2025-04-24
+Zuko,OWNER_003,COMPANY033,Won,,,134574,2025-05-27,H. Work Order Received,Pure Service,Renewables,2025-05-06
+Appa,OWNER_003,COMPANY163,Won,,,1079650.5,2024-11-17,H. Work Order Received,Pure Service,Renewables,2024-08-30
+Appa,OWNER_003,COMPANY005,Won,,,183510,2024-09-30,Project Completed,Pure Service,Others,2024-08-30
+Appa,OWNER_003,COMPANY133,Won,,,,2024-09-30,Project Completed,Pure Service,Renewables,2024-08-30
+Appa,OWNER_003,COMPANY133,Won,,,,2024-09-30,Project Completed,Pure Service,Renewables,2024-08-30
+Appa,OWNER_003,COMPANY133,Won,,,1345740,2024-10-31,H. Work Order Received,Pure Service,Renewables,2024-09-17
+Appa,OWNER_003,COMPANY005,Won,,,3303180,2024-10-31,H. Work Order Received,Pure Service,Mining,2024-09-20
+Po (Kung Fu Panda),OWNER_003,COMPANY005,Won,,,1345740,2024-10-31,H. Work Order Received,Pure Service,Mining,2024-09-20
+Po (Kung Fu Panda),OWNER_003,COMPANY005,Won,,,,2024-10-31,H. Work Order Received,Pure Service,Mining,2024-09-20
+Po (Kung Fu Panda),,COMPANY038,Won,,,,2024-11-13,Project Completed,,Renewables,2024-11-05
+Shrek,OWNER_003,COMPANY005,Won,,,91755,2024-12-31,H. Work Order Received,Pure Service,Construction,2024-11-17
+Donkey,OWNER_003,COMPANY059,Won,,,152925,2025-01-14,H. Work Order Received,Pure Service,Renewables,2024-11-17
+Donkey,OWNER_003,COMPANY029,Won,,,305850,2024-12-31,H. Work Order Received,Pure Service,Renewables,2024-11-17
+Puss in Boots,OWNER_001,COMPANY105,Won,2025-01-06,,,2025-01-06,Project Completed,,Renewables,2024-11-17
+Puss in Boots,OWNER_001,COMPANY123,Won,2024-12-31,,,2024-12-31,H. Work Order Received,,Renewables,2024-11-17
+Puss in Boots,OWNER_003,COMPANY133,Won,,,342552,2025-01-14,H. Work Order Received,Pure Service,Renewables,2024-11-17
+Winnie the Pooh,OWNER_003,COMPANY133,Won,,,342552,2025-01-14,H. Work Order Received,Pure Service,Renewables,2024-11-17
+Tigger,OWNER_001,COMPANY038,Won,2025-06-23,,,2025-06-23,Project Completed,,Renewables,2024-12-05
+Eeyore,OWNER_001,COMPANY038,Won,,,,2025-06-23,Project Completed,,Renewables,2024-12-05
+Buzz Lightyear,OWNER_001,COMPANY038,Won,,,,2025-06-11,K. Amount Accrued,,Renewables,2025-01-06
+Woody,OWNER_003,COMPANY056,Won,,,2936160,2025-05-13,H. Work Order Received,Pure Service,Mining,2025-01-14
+Jessie,OWNER_003,COMPANY005,Won,,,183510,2025-02-28,H. Work Order Received,Pure Service,Others,2025-01-16
+Jessie,OWNER_003,COMPANY038,Won,,,194275.92,2025-02-28,H. Work Order Received,Pure Service,Renewables,2025-01-16
+Anna,OWNER_003,COMPANY097,Won,,,1706643,2025-05-13,H. Work Order Received,Pure Service,Mining,2025-01-16
+Olaf,OWNER_003,COMPANY031,Won,,,1706643,2025-02-28,H. Work Order Received,Pure Service,Renewables,2025-01-16
+Baymax,OWNER_003,COMPANY002,Won,,,368243.4,2025-02-11,H. Work Order Received,Pure Service,Mining,2025-01-17
+Stitch,OWNER_003,COMPANY005,Won,,,61170,2025-02-28,H. Work Order Received,Pure Service,Mining,2025-01-17
+Inosuke,OWNER_001,COMPANY182,Won,,,,2025-02-28,Project Completed,,Mining,2025-01-17
+Tanjiro Kamado,OWNER_003,COMPANY199,Won,,,881077.9992,2025-02-28,H. Work Order Received,Pure Service,Renewables,2025-01-17
+Moana,OWNER_001,COMPANY182,Won,,,,2025-02-28,Project Completed,,Mining,2025-01-17
+Mulan,OWNER_001,COMPANY182,Won,,,,2025-02-28,Project Completed,,Mining,2025-01-17
+Simba,OWNER_001,COMPANY182,Won,,,,2025-02-28,Project Completed,,Mining,2025-01-17
+Timon,OWNER_001,COMPANY038,Won,,,,2025-01-29,Project Completed,,Renewables,2025-01-17
+Timon,OWNER_001,COMPANY182,Won,,,,2025-02-28,K. Amount Accrued,,Mining,2025-01-17
+Timon,OWNER_003,COMPANY082,Won,,,195744,2025-02-28,H. Work Order Received,Pure Service,Others,2025-01-17
+Timon,OWNER_006,COMPANY064,Won,,,,2025-03-31,Project Completed,,Others,2025-02-10
+Timon,OWNER_006,COMPANY181,Won,,,,2025-03-26,Project Completed,,Others,2025-03-11
+Timon,OWNER_002,COMPANY125,Won,2025-08-29,High,4986578.4,2025-08-29,H. Work Order Received,Service + Spectra,Powerline,2025-05-13
+Timon,OWNER_003,COMPANY062,Won,,,519945,2025-07-04,Project Completed,Pure Service,Railways,2025-05-14
+Timon,OWNER_003,COMPANY019,Won,,,,2025-07-04,Project Completed,Pure Service,Others,2025-05-14
+Timon,OWNER_003,COMPANY022,Won,,,305850,2025-05-30,H. Work Order Received,Pure Service,Renewables,2025-05-14
+Tuxedo Mask,OWNER_003,COMPANY131,Won,,,1205049,2025-05-13,H. Work Order Received,Pure Service,Powerline,2024-08-09
+Pumbaa,OWNER_003,COMPANY005,Won,,,,2024-09-30,Project Completed,Pure Service,Mining,2024-08-13
+Rafiki,OWNER_003,COMPANY005,Won,,,183510,2025-05-22,H. Work Order Received,Pure Service,Mining,2025-05-17
+Rafiki,OWNER_003,COMPANY005,Won,,,721806,2025-05-22,H. Work Order Received,Pure Service,Mining,2025-05-17
+Rafiki,OWNER_003,COMPANY005,Won,,,550530,2025-05-30,H. Work Order Received,Pure Service,Mining,2025-05-17
+Rafiki,OWNER_003,COMPANY005,Won,,,2960628,2025-05-22,H. Work Order Received,Pure Service,Mining,2025-05-17
+Rafiki,OWNER_001,COMPANY169,Won,,High,,2025-06-19,H. Work Order Received,,Powerline,2025-06-11
+Rafiki,OWNER_001,COMPANY037,Won,,,,2025-07-31,H. Work Order Received,,Renewables,2025-06-11
+Scar,OWNER_001,COMPANY037,Won,,,,2025-07-31,H. Work Order Received,,Renewables,2025-06-11
+Optimus Prime,OWNER_003,COMPANY005,Won,,,275265,2025-07-04,G. Project Won,Pure Service,Construction,2025-06-11
+Megatron,OWNER_003,COMPANY005,Won,,,685104,2025-07-31,H. Work Order Received,Pure Service,Construction,2025-06-11
+Iroh,OWNER_001,COMPANY186,Won,,,,2025-07-31,H. Work Order Received,,Mining,2025-06-12
+Appa,OWNER_001,COMPANY038,Won,,,,2025-07-31,H. Work Order Received,,Renewables,2025-06-12
+Pikachu,OWNER_003,COMPANY152,Won,,,214095,2025-08-31,H. Work Order Received,Pure Service,Renewables,2025-07-28
+Ash Ketchum,OWNER_003,COMPANY133,Won,,,489360,2025-08-31,G. Project Won,Pure Service,Renewables,2025-07-28
+Charmander,OWNER_003,COMPANY133,Won,,,746274,2025-08-31,H. Work Order Received,Pure Service,Renewables,2025-07-28
+Squirtle,OWNER_003,COMPANY031,Won,,,489360,2025-08-31,G. Project Won,Pure Service,Renewables,2025-07-28
+Bulbasaur,OWNER_003,COMPANY007,Won,,,2424950.076,2025-09-15,G. Project Won,Pure Service,Renewables,2025-07-28
+Bulbasaur,OWNER_003,COMPANY011,Won,,,14277078,2025-08-31,H. Work Order Received,Pure Service,Railways,2025-07-28
+Bulbasaur,OWNER_003,COMPANY061,Won,,,5020833.6,2025-09-15,G. Project Won,Pure Service,Railways,2025-07-28
+Alias_160,OWNER_003,COMPANY062,Won,,,14552343,2025-08-31,H. Work Order Received,Pure Service,Railways,2025-07-28
+Alias_160,OWNER_003,COMPANY173,Won,,,611700,2025-09-15,G. Project Won,Pure Service,Manufacturing,2025-07-28
+Alias_160,OWNER_003,COMPANY004,Won,,,91755,2025-08-31,H. Work Order Received,Pure Service,Mining,2025-07-28
+Alias_160,OWNER_003,COMPANY111,Won,,,8719220.736,2025-10-31,G. Project Won,Pure Service,Railways,2025-09-15
+Alias_160,OWNER_003,COMPANY007,Won,,,1368079.284,2025-10-31,G. Project Won,Pure Service,Mining,2025-09-15
+Alias_160,OWNER_001,COMPANY090,Won,2025-07-18,High,,2025-10-31,H. Work Order Received,,Mining,2025-09-15
+Alias_160,OWNER_001,COMPANY084,Won,2025-09-21,High,,2025-10-31,H. Work Order Received,,Mining,2025-09-15
+Alias_160,OWNER_002,COMPANY180,Won,2025-12-31,High,54900.6867,2025-12-31,H. Work Order Received,Spectra Deal,Powerline,2025-10-14
+Alias_160,OWNER_001,COMPANY105,Won,2025-11-21,High,428190,2025-11-21,G. Project Won,Pure Service,Renewables,2025-11-17
+Alias_162,OWNER_003,COMPANY007,Won,,,305850,2025-11-30,G. Project Won,Pure Service,Mining,2025-11-18
+Alias_162,OWNER_004,COMPANY128,Won,,,,2025-07-31,J. Invoice sent,,Mining,2025-06-22
+Alias_162,OWNER_003,COMPANY130,Won,,,,2025-09-30,F. Negotiations,,Mining,2025-08-25
+Alias_162,OWNER_003,COMPANY096,Won,,High,140691,2025-12-31,G. Project Won,Pure Service,Mining,2025-11-18
+Alias_162,OWNER_003,COMPANY104,Won,,High,1223400,2025-11-22,G. Project Won,Pure Service,Railways,2025-11-18
+Alias_162,OWNER_001,COMPANY038,Won,2025-11-28,High,483241.7766,2024-12-20,G. Project Won,,Renewables,2024-12-12
+Alias_162,OWNER_002,COMPANY124,Won,2025-12-31,High,611700,2025-12-31,H. Work Order Received,,Powerline,2025-06-23
+Alias_162,OWNER_001,COMPANY086,Won,2025-12-17,High,422073,2025-12-12,G. Project Won,Pure Service,Mining,2025-12-08
+Alias_162,OWNER_003,COMPANY111,Won,2026-01-12,High,4787115.264,2025-12-31,G. Project Won,Pure Service,Railways,2025-11-17
+Alias_162,OWNER_003,COMPANY111,Won,2026-01-12,High,4127536.282,2025-12-16,G. Project Won,Pure Service,Railways,2025-11-27
+Vegeta,OWNER_001,COMPANY182,Won,2025-12-12,High,53217.9,2025-12-16,G. Project Won,,,2026-01-08
+Alias_165,OWNER_001,COMPANY184,Won,2025-12-12,High,51440.2998,2025-12-16,G. Project Won,,,2026-01-08
+Alias_166,OWNER_001,COMPANY138,Won,2026-01-01,High,367020,2026-01-01,G. Project Won,,,2026-01-08
+Alias_168,OWNER_001,COMPANY139,Won,2026-01-01,High,294397.7526,2026-01-01,G. Project Won,,,2026-01-08
+Alias_169,OWNER_001,COMPANY136,Open,2025-01-23,High,,,A. Lead Generated,,,2026-01-08
+Alias_170,OWNER_001,COMPANY040,Won,2025-11-28,High,550530,2025-11-28,G. Project Won,Pure Service,Renewables,2025-11-26
+Alias_171,OWNER_001,COMPANY041,Won,2025-11-28,High,473455.8,2025-11-28,G. Project Won,Pure Service,Renewables,2025-11-26
+Alias_172,OWNER_004,COMPANY181,Won,2026-01-08,High,159042,2025-12-02,F. Negotiations,Pure Service,DSP,2025-11-26
+Alias_173,OWNER_001,COMPANY170,Won,2026-01-01,High,207366.3,2026-01-31,G. Project Won,,Renewables,2026-01-09
+Alias_174,OWNER_003,COMPANY132,Won,2026-01-15,High,244680,2026-01-31,G. Project Won,Pure Service,Renewables,2026-01-08
+Alias_174,OWNER_003,COMPANY132,Won,2026-01-15,High,611700,2026-02-28,G. Project Won,Pure Service,Renewables,2026-01-08
+Alias_175,OWNER_003,COMPANY078,Won,2026-01-15,High,1027656,2026-01-15,G. Project Won,Pure Service,Railways,2025-11-18
