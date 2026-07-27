@@ -1,5 +1,5 @@
 # Skylark BI Agent
-
+live: https://skylark-bi-agentgit-2y6t7appqifntvtbuzhypw9.streamlit.app/
 A conversational business intelligence agent that answers founder-level questions across two monday.com boards — Deals (sales pipeline) and Work Orders (project execution and billing).
 
 Ask *"How's our pipeline looking for renewables this quarter?"* and it interprets the question, queries both boards live, cleans the data, computes the numbers, and explains what they mean — including which figures you should not fully trust and why.
