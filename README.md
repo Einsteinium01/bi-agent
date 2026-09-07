@@ -1,4 +1,4 @@
-# Skylark BI Agent
+#BI Agent
 live: https://skylark-bi-agentgit-2y6t7appqifntvtbuzhypw9.streamlit.app/
 A conversational business intelligence agent that answers founder-level questions across two monday.com boards — Deals (sales pipeline) and Work Orders (project execution and billing).
 
